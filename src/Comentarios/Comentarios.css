@@ -1,0 +1,28 @@
+.banner3{
+    background-image: url('../assets/banner3.jpg');
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 16%;
+    color: #fff;
+}
+textarea{
+    border-radius: 2%;
+    margin-left: 7%;
+    margin-top: 10%;
+    color: #fff;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.452);
+}
+
+.enviar{
+    margin-left: 45%;
+    height: 50px;
+    background-color: #406699;
+    font-size: 20px;
+    border-radius: 8%;
+}
+
+.comen{
+    width: 35%;
+}

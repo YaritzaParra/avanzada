@@ -1,0 +1,66 @@
+/* Estilos del footer */
+.footer {
+    background-color: #f8f8f8;
+    padding: 40px 0;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .footer-logo {
+    flex: 1;
+    max-width: 200px;
+  }
+  
+  .footer-logo img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .footer-links,
+  .footer-contact,
+  .footer-social {
+    flex: 1;
+    max-width: 200px;
+  }
+  
+  .footer-links ul,
+  .footer-contact p,
+  .footer-social ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-social ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .footer-social ul li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .icon-link {
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    color: #333; /* Define el color del texto del enlace */
+  }
+  
+  .icon-link i {
+    /* Agrega estilos adicionales al ícono si es necesario */
+    /* Por ejemplo, tamaño, color, etc. */
+    margin-right: 5px; /* Agrega un margen derecho para separar el ícono del texto */
+  }

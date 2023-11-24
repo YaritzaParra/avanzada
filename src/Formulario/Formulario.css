@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Playpen+Sans:wght@100;300&display=swap');
+
+.banner2{
+    background-image: url('../assets/banner2.jpeg');
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 14%;
+    color: #fff;
+}
+
+form{
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.473);
+    border-radius: 5%;
+}
+
+label{
+    font-family: 'Playpen Sans', cursive;
+}
+
+.button{
+    font-family: 'Playpen Sans', cursive;
+}
